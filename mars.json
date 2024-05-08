@@ -1,0 +1,19 @@
+{
+  "board": {
+    "bar_counts": {
+      "3fa85f64-5717-4562-b3fc-2c963f66afa6": 0,
+      "ecf0e70e-7096-4493-a5fc-35e116d66e12": 0
+    },
+    "points": [
+      {
+        "number": 10,
+        "checkers_count": 3,
+        "occupied_by": "ecf0e70e-7096-4493-a5fc-35e116d66e12"
+      }
+    ]
+  },
+  "start_position": {
+    "3fa85f64-5717-4562-b3fc-2c963f66afa6": 23,
+    "ecf0e70e-7096-4493-a5fc-35e116d66e12": 10
+  }
+}
